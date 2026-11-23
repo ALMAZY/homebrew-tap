@@ -2,7 +2,7 @@ cask "ramify" do
   version "0.2.0"
   sha256 "dc16b8f06136fa99ceb8ad15b4f98ed822a1cdf147a034fe77f6d3296cd2e922"
 
-  url "https://github.com/ALMAZY/ramify/releases/download/v#\{version\}/Ramify_#\{version\}_universal.dmg"
+  url "https://github.com/ALMAZY/ramify/releases/download/v#{version}/Ramify_#{version}_universal.dmg"
   name "Ramify"
   desc "Keyboard-first mind map for fast notes"
   homepage "https://github.com/ALMAZY/ramify"
